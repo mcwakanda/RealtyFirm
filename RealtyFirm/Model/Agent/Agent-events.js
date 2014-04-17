@@ -1,0 +1,1 @@
+﻿model.Agent.fullName.onGet = function() {	return this.firstName + " " + this.lastName + ", " + this.title;};

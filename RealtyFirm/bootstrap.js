@@ -1,0 +1,1 @@
+﻿addHttpRequestHandler('\/$', 'Scripts/routes.js', 'indexRoute');addHttpRequestHandler('\/showingRequest$', 'Scripts/routes.js', 'showingRequestRoute');
