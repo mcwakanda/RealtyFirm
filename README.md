@@ -1,5 +1,4 @@
-##Welcome to Wakanda##
+Wakanda Quarterly Update Demo Solution
+======================================
 
-This is the place to describe your Wakanda application.
-
-Please visit [www.wakanda.org](http://www.wakanda.org "wakanda.org") for more information.
+This is the sample solution "RealtyFirm" created by Greg in the April 2014 Quarterly Update webinar. It was created with Wakanda 8.
